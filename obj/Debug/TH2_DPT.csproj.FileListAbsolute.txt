@@ -1,0 +1,7 @@
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\bin\Debug\TH2_DPT.exe.config
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\bin\Debug\TH2_DPT.exe
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\bin\Debug\TH2_DPT.pdb
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\obj\Debug\TH2_DPT.csproj.AssemblyReference.cache
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\obj\Debug\TH2_DPT.csproj.CoreCompileInputs.cache
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\obj\Debug\TH2_DPT.exe
+C:\Users\Shinn PC\source\repos\TH2_DPT\TH2_DPT\obj\Debug\TH2_DPT.pdb
